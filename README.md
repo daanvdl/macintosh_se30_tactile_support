@@ -1,4 +1,4 @@
-# Tactile Button Holder
+# Macintosh SE/30 S1/S2 Tactile Button-holder
 Support for S1 and S2 on Apple Macintosh SE/30 logicboard
 Known as: S1 and S2
 
